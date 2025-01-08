@@ -1,0 +1,11 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Set status bar color -->
+        <item name="android:statusBarColor">@color/black</item>
+
+        <!-- Optional: Set navigation bar color -->
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="share">Share</string>
+</resources>
